@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-            Khanjan Marthak is khanjan baki sab pani kam.
+            Khanjan Marthak is in Simformsolutions.
         </a>
       </header>
     </div>
